@@ -8,7 +8,7 @@ Github repo: https://github.com/MendelDebrabandere/NeanderBrawlers
 
 
 
-This project was developed using Perforce so this github repo is just a copy to store the project, so it wasnt actually developed here.
+This project was developed using Perforce so this github repo is just a copy to store the project, it wasnt actually developed here.
 
 
 ## Group project
@@ -22,7 +22,7 @@ I programmed:
 - The player spawn system
 - The UI
 - The menu
-(basically everything besides the players, item pickups, player interaction and the berry bush)
+(basically everything besides the players, player interaction and the berry bush)
 
 ## The project
 This was made in UE 5.1 and we only C++ for the gameplay logic. It was prototyped, designed and developed in only 12 weeks in a single course.
