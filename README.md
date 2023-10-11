@@ -8,7 +8,7 @@ Github repo: https://github.com/MendelDebrabandere/NeanderBrawlers
 
 
 
-This project was developed using Perforce so this github repo is just a copy to store the project, it wasnt actually developed here.
+This project was developed using Perforce so this Github repo is just a copy to store the project, it wasn't actually developed here.
 
 
 ## Group project
